@@ -2,6 +2,7 @@
 #include<conio.h>
 class Abc
 {
+	//change it
 	int a,b,c;
 	public:
 		void addition(int a,int b)
